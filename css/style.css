@@ -5,7 +5,16 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.carousel-inner .carousel-item img{
+ height: 600px;
+}
 .carousel-inner h1{
     font-size: 65px;
     font-weight: 600;
+}
+.carousel-inner p{
+    font-size: 18px;
+    font-weight: 400;
+    max-width: 671px;
+    margin: 0 auto;
 }
